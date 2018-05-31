@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
++*EXAMPLE.json
+data-and-settings.json
+.idea/
